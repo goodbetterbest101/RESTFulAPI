@@ -32,7 +32,7 @@ let users = [
 ];
 
 exports.findAll = function() {
-    console.log("in");
+    // console.log("in");
     return users;
 };
 
